@@ -5,11 +5,6 @@ import java.util.Scanner;
 
 public class TimeConfusion {
 
-	public static void findTime(ArrayList<Time> list){
-		
-		
-		
-	}
 	
 	public static void sortList(ArrayList<Time> list){
 		for(int j=0; j<list.size()-1; j++){

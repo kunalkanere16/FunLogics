@@ -59,7 +59,7 @@ public class Anagram {
 		permutation(query,permList);
 		int count = 0;
 		for(String perm: permList){
-			if(parent.contains(perm)){
+			if(parent.contains(perm)){// if anagram exists at all
 				count+=search(perm, parent);
 			}
 			
