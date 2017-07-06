@@ -1,6 +1,6 @@
 # SmartLogic
 
-##Consist of logics
+## Consist of logics
 - ParseCsv
 - BalancedBrackets
 - Spiral
